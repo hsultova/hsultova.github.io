@@ -1,0 +1,17 @@
+# Setup
+name:         Project or Site name (Architect Theme)
+tagline:      A responsive theme for your project on GitHub Pages
+baseurl:      "/blog"
+url: "hsultova.github.io" 
+locale:       "bg"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+layout: default
+comments: true
+plugins:
+  - jekyll-feed
