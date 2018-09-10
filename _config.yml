@@ -2,7 +2,6 @@
 
 name:         Блогът на Христомира
 url: "hsultova.github.io"
-baseurl:      "/blog"
 locale:       "bg"
 
 # Gems
