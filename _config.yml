@@ -1,6 +1,7 @@
 # Setup
+
 name:         Блогът на Христомира
-tagline:      A responsive theme for your project on GitHub Pages
+theme: jekyll-theme-architect
 url: "hsultova.github.io" 
 locale:       "bg"
 
