@@ -1,7 +1,6 @@
 # Setup
 
 name:         Блогът на Христомира
-theme: jekyll-theme-architect
 url: "hsultova.github.io" 
 locale:       "bg"
 
