@@ -2,14 +2,7 @@
 
 name:         Блогът на Христомира
 url: "hsultova.github.io"
-permalink: /:title/
 locale:       "bg"
-
-navigation: 
-- title: Home
-  url: /index.html
-- title: About
-  url: /about.html  
 
 # Gems
 gems:
